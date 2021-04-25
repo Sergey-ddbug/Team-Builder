@@ -32,6 +32,8 @@ node index.js
 
 ## GitHub Link : (https://github.com/Sergey-ddbug)
 
+## GitHub Repo : (https://github.com/Sergey-ddbug/Team-Builder)
+
 ## Email : sishimov@gmail.com
 
 ![badge](https://img.shields.io/badge/license-Unlicense-blue.svg)
